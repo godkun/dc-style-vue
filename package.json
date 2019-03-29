@@ -1,8 +1,9 @@
 {
   "name": "dc-style-vue",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "author": "godkun",
   "description": "基于 vue-cli3 的 UI 组件库",
-  "main": "lib/xr-ui.umd.min.js",
+  "main": "lib/dc-style-vue.umd.min.js",
   "keywords": "dc-style-vue",
   "license": "MIT",
   "private": false,
@@ -10,7 +11,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name xr-ui --dest lib packages/index.js",
+    "lib": "vue-cli-service build --target lib --name dc-style-vue --dest lib packages/index.js",
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
