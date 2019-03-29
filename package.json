@@ -5,7 +5,7 @@
   "main": "lib/xr-ui.umd.min.js",
   "keywords": "dc-style-vue",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
