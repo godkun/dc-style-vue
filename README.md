@@ -1,34 +1,9 @@
 # dc-style-vue
 
-## Project setup
-```
-yarn install
-```
+## 引导链接
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## 快速安装
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## 模块主要负责人
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## LICENSE
